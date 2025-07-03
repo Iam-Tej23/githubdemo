@@ -1,0 +1,7 @@
+    1  apt update
+    2  git --version 
+    3  ls
+    4  cd github/
+    5  ls
+    6  touch git-commands.txt
+    7  history > git-commands.txt 
